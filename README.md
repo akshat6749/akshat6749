@@ -63,16 +63,16 @@ I'm a final-year Computer Science student with a strong foundation in Data Struc
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical&rank_icon=github" alt="Akshat's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akshat6749&show_icons=true&theme=radical&rank_icon=github" alt="Akshat's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat6749&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat6749&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -82,17 +82,11 @@ I'm a final-year Computer Science student with a strong foundation in Data Struc
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-username]">
+  <a href="https://www.linkedin.com/in/akshat-jaiswal-122a57257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/[your-leetcode-username]">
+  <a href="https://leetcode.com/_akshat_49">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/[your-gfg-username]/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-  </a>
-  <a href="https://www.codechef.com/users/[your-codechef-username]">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="mailto:akshatjaiswal872@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -102,5 +96,5 @@ I'm a final-year Computer Science student with a strong foundation in Data Struc
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akshat6749&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
