@@ -14,7 +14,6 @@
 I'm a final-year Computer Science student with a strong foundation in Data Structures, Algorithms, and full-stack web development. I love building innovative solutions and collaborating on exciting projects.
 
 -   🔭 I’m currently exploring opportunities in Software Engineering.
--   🌱 I’m currently learning about **System Design** and **Cloud Technologies**.
 -   👯 I’m looking to collaborate on **open-source projects** related to web development.
 -   💬 Ask me about **React, Next.js, Django, and Data Structures & Algorithms**.
 -   📫 How to reach me: **akshatjaiswal872@gmail.com**
