@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Akshat%20Jaiswal&fontSize=90" alt="Header GIF" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Akshat Jaiswal 👋</h1>
 <h3 align="center">A passionate Computer Science student from Jadavpur University, Kolkata.</h3>
 
 ---
