@@ -12,7 +12,7 @@
 
 I'm a final-year Computer Science student with a strong foundation in Data Structures, Algorithms, and full-stack web development. I love building innovative solutions and collaborating on exciting projects.
 
--   🔭 I’m currently Software Engineer Intern in Louisa AI.
+-   🔭 I’m currently a Software Engineer.
 -   👯 I’m looking to collaborate on **open-source projects** related to web development.
 -   💬 Ask me about **React, Next.js, Django, and Data Structures & Algorithms**.
 -   📫 How to reach me: **akshatjaiswal872@gmail.com**
